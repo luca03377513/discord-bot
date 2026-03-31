@@ -28,7 +28,7 @@ https://discord.gg/E6rftfaK
 @everyone @here
 """
 
-EXTERNAL_APP_INVITE = "https://discord.com/oauth2/authorize?client_id=1488196379795918928&scope=bot+applications.commands&permissions=8"
+EXTERNAL_APP_INVITE = "https://discord.com/oauth2/authorize?client_id=1488196379795918928"
 
 class ExternalAppButton(View):
     def __init__(self):
